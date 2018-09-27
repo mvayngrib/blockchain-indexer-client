@@ -13,7 +13,7 @@ module.exports = {
   "rules": {
     "no-trailing-commas": "off",
     "indent": [
-      "error",
+      "warn",
       2
     ],
     "linebreak-style": [
